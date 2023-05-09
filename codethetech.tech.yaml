@@ -1,5 +1,5 @@
 
-SUBDOMAIN_NAME:porfolio.codethetech.tech
+SUBDOMAIN_NAME: porfolio.codethetech.tech
   - ttl: 1
     type: CNAME
     value: cname.vercel-dns.com.
