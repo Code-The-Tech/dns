@@ -3,3 +3,8 @@ portfolio.codethetech.tech:
   - ttl: 1
   - type: CNAME
     value: cname.vercel-dns.com.
+    
+sample.portfolio.codethetech.tech:
+  - ttl: 1
+  - type: TXT
+    value: vc-domain-verify=sample.portfolio.codethetech.tech,5160ee26b1825fd4ef11
