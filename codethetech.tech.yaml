@@ -8,3 +8,7 @@ sample.portfolio.codethetech.tech:
   - ttl: 1
   - type: TXT
     value: vc-domain-verify=sample.portfolio.codethetech.tech,5160ee26b1825fd4ef11
+ dev.codethetech.tech:
+  - ttl: 1
+  - type: TXT
+    value: vc-domain-verify=dev.codethetech.tech,1af521c0a15d2bb21e56
