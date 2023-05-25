@@ -35,6 +35,5 @@ file as shown below:
 _vercel:
   ttl: 1
   type: CNAME
-  values:
-    - cname.vercel-dns.com.
+  values: cname.vercel-dns.com.
  ```
