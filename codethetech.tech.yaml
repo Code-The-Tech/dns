@@ -12,3 +12,8 @@ sample.portfolio.codethetech.tech:
   - ttl: 1
   - type: TXT
     value: vc-domain-verify=dev.codethetech.tech,1af521c0a15d2bb21e56
+
+ dhritid.codethetech.tech:
+  - ttl: 1
+  - type: TXT
+    value: vc-domain-verify=dhritid.codethetech.tech,7ea4d4fc3d7b6cffbc0b
